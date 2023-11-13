@@ -1,2 +1,2 @@
-# Java-lab1
-First HW for Java OOP
+# Java-lab
+A series of homework done with Java that invoelves core OOP,GUI,Database,Web applications.
